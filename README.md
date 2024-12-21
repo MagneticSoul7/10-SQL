@@ -29,7 +29,6 @@ This application allows any business owner to view and manage the departments, r
 |  Inquirer                  |  |   
 |  PostgreSQL                |  |
 |  Github			         |  |
-|  Render                    |  |
 |                               |
 
 ## User Story 
