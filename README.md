@@ -4,6 +4,7 @@ Challenge #10 SQL
 
 ## Description 
 
+This application allows any business owner to view and manage the departments, roles, and employees in their company so that they can keep their business organized and plan things out. 
 
 ## Table of Contents: 
 
@@ -33,13 +34,13 @@ Challenge #10 SQL
 
 ## User Story 
 
-AS A USER 
+AS A USER who is a business owner,
 <br>
 <br>
-I WANT 
+I WANT something to help me view and manage the departments, roles, and employees in my company,
 <br>
 <br>
-SO THAT 
+SO THAT I can plan my business and keep it organized.
 <br>
 
 ## Installation 
